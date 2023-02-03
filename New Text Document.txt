@@ -1,0 +1,73 @@
+[5:16, 2023-1-31] +994 70 440 05 00: Input ile daxil olunan ədədin sade bolenlerini cixartsin
+[5:16, 2023-1-31] +994 70 440 05 00: * 3 reqemli eded daxil edirik ededin evveline ve sonuna string ile 3 elave edirik
+[5:16, 2023-1-31] +994 70 440 05 00: Input ile daxil olunan ədədin rəqəmlərindən ən böyüyünü tapın.
+[5:17, 2023-1-31] +994 70 440 05 00: Input ile daxil olunan ədədin rəqəmlərindən tam ədədləri göstərin.
+[5:17, 2023-1-31] +994 70 440 05 00: Input ile daxil olunan ədədin rəqəmlərindən cüt ədədi göstərin.
+[5:17, 2023-1-31] +994 70 440 05 00: Input ile daxil olunan ədədin rəqəmlərindən sadə ədədləri göstərin.
+[5:17, 2023-1-31] +994 70 440 05 00: Input ile daxil olunan ədədin rəqəmlərindən mükəmməl ədəd olub olmadığını tapın.
+[5:17, 2023-1-31] +994 70 440 05 00: * Input ile daxil olunan ədədin reqmelerin sayi ve string ile tərsini tapın.
+[5:17, 2023-1-31] +994 70 440 05 00: Input ile daxil olunan 1 ci ədədi daxil olunan 2 ci ədədin qüvvətinə yüksəldin.
+[5:17, 2023-1-31] +994 70 440 05 00: Input ile daxil olunan ədədin rəqəmlərinin kvadratları cəmini tapın.
+* Input ile daxil olunan ədədin 3 ededi string ile yan-yana yigilsin. Misal ucun: 3, 45, 10
+Input ile daxil olunan ədədin 3 ededi string ile yan-yana ardicilliq ile yigilsin. Misal ucun: 3, 10, 45
+[5:17, 2023-1-31] +994 70 440 05 00: Isifadeciden alinan n sayda ededden necesinin tam eded oldugunu tapin
+Isifadeciden alinan n sayda ededden necesinin sade eded oldugunu tapin
+Istifadeciden alinan n sayda ededden necesinin murekkeb eded oldugunu tapin
+[5:17, 2023-1-31] +994 70 440 05 00: Input ile daxil olunan ededden sonraki ilk sade ededi tapin
+[5:18, 2023-1-31] +994 70 440 05 00: Istifadecinin daxil etdiyi ededin kok altini tap
+[5:18, 2023-1-31] +994 70 440 05 00: Istifadeci 0 daxil edenedek edelerin cemini tapin.
+*** Vurma cedveli (string methodu ile)
+[5:18, 2023-1-31] +994 70 440 05 00: Input ile daxil olunan 3 ededden ortancili tapan funksiya yazin.
+[5:19, 2023-1-31] +994 70 440 05 00: Array olsun, target olsun, target-den sonraki array-in index’ini tapin ( home work )
+[5:20, 2023-1-31] +994 70 440 05 00: Array icerisinde en kicik ededi tapin ( home work )
+Array icersisinde sonu 9 olan nece elemet var. ( home work )
+[5:21, 2023-1-31] +994 70 440 05 00: Array icerisinde nece cut element var
+Array icerisinde nece tek element var
+[5:21, 2023-1-31] +994 70 440 05 00: Array icerisindeki tam ededlerin cemini tapin (while ile). ( home work )
+
+[5:21, 2023-2-2] +994 70 440 05 00: N - 5
+
+X
+XXX
+XXXXX
+XXX
+X
+
+
+N - 7
+
+_X_
+XXX
+XXXXX
+XXXXXXX  /n 
+XXXXX
+XXX
+_X_
+2 eded olsun (a, b). 3cu ededi istifade etmeden ededlerin yerini deyisin.
+2 array olsun 1 dovr, 1 sert ile arraylerdeki diff elementleri tapin
+
+Var arr1 = [1, 2, 3, 4]
+Var arr2 = [1, 2, 3, 4, 5]
+Var diffArr = [5]
+[5:21, 2023-2-2] +994 70 440 05 00: a = 4,b = 5
+* * * *
+* * * *
+* * * *
+* * * *
+* * * *
+
+* * * *
+*     *
+*     *
+*     *
+* * * *
+
+n = 7
+
+1
+1 2
+1 2 3
+1 2 3 4
+1 2 3 4 5
+1 2 3 4 5 6
+1 2 3 4 5 6 7
